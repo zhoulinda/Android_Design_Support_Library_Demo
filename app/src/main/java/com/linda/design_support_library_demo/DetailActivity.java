@@ -13,6 +13,9 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
+/**
+ * Created by zhoulinda on 16/3/2.
+ */
 public class DetailActivity extends AppCompatActivity {
 
     @Override
