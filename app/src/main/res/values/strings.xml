@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Design</string>
+    <string name="menu_settings">settings</string>
+    <string name="second_activity_text">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</string>
+    <string name="drawer_open">打开</string>
+    <string name="drawer_close">关闭</string>
+    <string-array name="tab_name">
+        <item>page_one</item>
+        <item>page_two</item>
+        <item>page_three</item>
+        <item>page_four</item>
+        <item>page_five</item>
+    </string-array>
+</resources>
